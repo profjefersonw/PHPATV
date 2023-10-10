@@ -1,0 +1,18 @@
+Tema: Site informações turísticas de Gramado, RS
+Aluno: Jeferson W. G. Vargas
+
+Páginas:
+	- Página inicial: index.html
+		(Título, barra com links para as outras páginas, texto inicial sobre Gramado,RS)
+
+ 	- Página sobre os principais pontos turísticos: pturistico.html
+		(Título, barra com links para as outras páginas, texto sobre os principis pontos turísticos da cidade)
+
+	- Página sobre o clima na cidade: clima.html
+		(Título, barra com links para as outras páginas, texto sobre o clima na cidade e as melhores épocas de visitar)
+
+	- Página sobre como chegar à cidade: chegar.html
+		(Título, barra com links para as outras páginas, texto sobre as formas de se chegar à cidade)
+
+	- Página com um formulário para mensagem: contato.html
+		(Título, barra com links para as outras páginas, formulário para contato)
